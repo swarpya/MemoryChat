@@ -1,0 +1,6 @@
+Flask
+sentence-transformers
+scikit-learn
+groq
+numpy
+waitress
